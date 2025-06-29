@@ -115,9 +115,7 @@ delay(10000);
 3. Acesse o canal do ThingSpeak e veja os gráficos atualizados.
 4. Caso deseje usar seu próprio canal, altere as variáveis `myChannelNumber` e `myApiKey` no código.
 
-## 🎥 Vídeo de Apresentação
-
-📺 [Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=AlN9ISIK2vs)
+📺 [Clique aqui para assistir no YouTube a apresentação](https://www.youtube.com/watch?v=AlN9ISIK2vs)
 ---
 
 Projeto desenvolvido para a disciplina **Introdução à Automação de Ambientes e Processos**.
