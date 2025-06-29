@@ -117,7 +117,7 @@ delay(10000);
 
 ## 🎥 Vídeo de Apresentação
 
-
+📺 [Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=AlN9ISIK2vs)
 ---
 
 Projeto desenvolvido para a disciplina **Introdução à Automação de Ambientes e Processos**.
