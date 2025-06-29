@@ -16,13 +16,13 @@ Ambientes como residências, estufas, data centers ou escritórios precisam de m
 - IDE Arduino
 
 ## 🔌 Diagrama do Circuito (Wokwi)
-![Diagrama do circuito](assets/wokwi_circuito.png)
+![Diagrama do circuito](wokwi_circuito.png)
 
 ## 🖥️ Execução no Serial Monitor
-![Serial Monitor](assets/serial_monitor.png)
+![Serial Monitor](serial_monitor.png)
 
 ## 📊 Visualização dos Dados no ThingSpeak
-![Gráficos ThingSpeak](assets/thingspeak_graficos.png)
+![Gráficos ThingSpeak](thingspeak_graficos.png)
 
 ## ⚙️ Funcionamento
 
