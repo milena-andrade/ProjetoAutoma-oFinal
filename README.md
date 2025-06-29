@@ -11,7 +11,7 @@ Ambientes como residências, estufas, data centers ou escritórios precisam de m
 - ESP32 (Wokwi)
 - Sensor DHT22
 - Bibliotecas: `DHTesp.h`, `ThingSpeak.h`, `WiFi.h`
-- Plataforma de simulação: [Wokwi](https://wokwi.com/projects/375503465488685057)
+- Plataforma de simulação: [Wokwi] (https://wokwi.com/projects/435126008849221633)
 - Plataforma de nuvem: [ThingSpeak](https://thingspeak.com/channels/1881348)
 - IDE Arduino
 
@@ -105,7 +105,7 @@ delay(10000);
 
 ## 🔗 Links Importantes
 
-- [🔌 Simulação no Wokwi](https://wokwi.com/projects/375503465488685057)
+- [🔌 Simulação no Wokwi](https://wokwi.com/projects/435126008849221633)
 - [📊 Canal público no ThingSpeak](https://thingspeak.com/channels/1881348)
 
 ## 🛠️ Instruções para Replicar
